@@ -1,3 +1,3 @@
-[Eatagram](https://github.com/eatagram/eatagram/blob/main/README.md#Eatagram)
+[Eatagram]
 
 Find the [best restaurants](https://eatagram.com/) around the world!
